@@ -17,7 +17,7 @@
 var myDay = ['unlock the module at 8pm', 'watch videos', 'take notes', 'after finishing watch video do practice','in case you do not understand concept'];
 
 for(var index = 0; index < 10;index++){
-    console.log
+    console.log(index+1);
     for(var i = 0; i < myDay.length; i++){
         var myDayOnGoing = myDay[i];
         console.log(myDayOnGoing)
